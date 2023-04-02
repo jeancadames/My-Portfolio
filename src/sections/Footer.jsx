@@ -16,7 +16,7 @@ export const Footer = () => {
         </ul>
           </div>
           <div className="footer-socials">
-          <a href='https:instagram.com/jeancadames' target='_blank' rel="noopener noreferrer"><AiOutlineInstagram/></a>
+          <a href='https://instagram.com/jeancadames' target='_blank' rel="noopener noreferrer"><AiOutlineInstagram/></a>
           <a href='https://www.linkedin.com/in/jean-adames-96918b176/' target='_blank' rel="noopener noreferrer"><AiOutlineLinkedin/></a>
           <a href='https://github.com/jeancadames' target='_blank' rel="noopener noreferrer"><AiOutlineGithub/></a>
         </div>
