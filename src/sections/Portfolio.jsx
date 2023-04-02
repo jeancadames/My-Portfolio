@@ -3,6 +3,7 @@ import journalApp from '../assets/journalapp.png'
 import ecommerce from '../assets/ecommerce.png'
 import heroSPA from '../assets/herospa.png'
 import movie from '../assets/movie-ui-layout.png'
+import markgency from '../assets/margency.png'
 
 export const Portfolio = () => {
   return (
@@ -13,12 +14,12 @@ export const Portfolio = () => {
             <p>Mira y prueba mis proyectos recientes en los que he trabajado a lo largo del tiempo, puedes probar el Live Demo como tambien ver el código fuente del mismo</p>
             <div className="projects">
               <div className="card-project project">
-                 <img src={pathSoft} className='project-img' alt="project layout" /> 
-                 <h5>Calendar App</h5>
-                 <small>Calendar App es una aplicación de React integrada con su propia base de datos. Esta integración permite que los usuarios puedan crearse sus cuentas y puedan ver los eventos colocados por ellos, y a la vez cuenta con todos los procesos de seguridad y autenticación necesarios para una funcionalidad correcta y eficiente.</small>
+                 <img src={markgency} className='project-img' alt="project layout" /> 
+                 <h5>Markengcy Landing Page</h5>
+                 <small>Markgency es un Landing Page de agencia de marketing digital. Es un landing page totalmente responsive para todo tipo de dispositivos, cuenta con diferentes secciones y diseños llamativos. Entre las secciones están incluidas un formulario para contactar, apartado con video, blog, noticias, etc.</small>
                  <div className="btn-section">
-                  <a target='_blank' href='' className='btn primary'>Live Demo</a>
-                  <a target='_blank' href='https://github.com/jeancadames/Calendar-App' className='btn light'>Code</a>
+                  <a target='_blank' href='https://jeancadames.github.io/Markgency-Landing-Page/' className='btn primary'>Live Demo</a>
+                  <a target='_blank' href='https://github.com/jeancadames/Markgency-Landing-Page' className='btn light'>Code</a>
                  </div>
               </div>
               <div className="card-project project">
