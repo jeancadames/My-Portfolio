@@ -15,7 +15,7 @@ export const Portfolio = () => {
             <div className="projects">
               <div className="card-project project">
                  <img src={markgency} className='project-img' alt="project layout" /> 
-                 <h5>Markengcy Landing Page</h5>
+                 <h5>Markgency Landing Page</h5>
                  <small>Markgency es un Landing Page de agencia de marketing digital. Es un landing page totalmente responsive para todo tipo de dispositivos, cuenta con diferentes secciones y diseños llamativos. Entre las secciones están incluidas un formulario para contactar, apartado con video, blog, noticias, etc.</small>
                  <div className="btn-section">
                   <a target='_blank' href='https://jeancadames.github.io/Markgency-Landing-Page/' className='btn primary'>Live Demo</a>
