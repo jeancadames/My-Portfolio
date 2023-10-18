@@ -6,9 +6,9 @@ export const WebPortfolio = () => {
       <Navbar/>
       <Header/>
       <About/>
-      <Services/>
+      {/* <Services/> */}
       <Portfolio/>
-      <FAQ/>
+      {/* <FAQ/> */}
       <Contact/>
       <Footer/>
       <FloatingNav/>

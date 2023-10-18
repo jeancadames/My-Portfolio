@@ -20,7 +20,7 @@ export const Footer = () => {
           <a href='https://www.linkedin.com/in/jean-adames-96918b176/' target='_blank' rel="noopener noreferrer"><AiOutlineLinkedin/></a>
           <a href='https://github.com/jeancadames' target='_blank' rel="noopener noreferrer"><AiOutlineGithub/></a>
         </div>
-        <small>2023 Jean Adames© Todos los derechos reservados</small>
+        <small>2023 Jean Adames© All Rights Reserved</small>
         </footer>
     </>
   )

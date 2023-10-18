@@ -18,21 +18,21 @@ export const About = () => {
             </div>
           </div>
           <div className="about-right">
-            <h2>Sobre mi</h2>
+            <h2>About me</h2>
             <div className="about-cards">
               <article className="card about-card">
                 <span className='about-card-icon'><FaAward/></span>
-                <h5>Experiencia</h5>
-                <small>2+ años de experiencia</small>
+                <h5>Experience</h5>
+                <small>2+ years of experience</small>
               </article>
               <article className="card about-card">
                 <span className='about-card-icon'><TbBooks/></span>
-                <h5>Proyectos personales</h5>
+                <h5>Projects</h5>
                 <small>10</small>
               </article>
               <article className="card about-card">
                 <span className='about-card-icon'><AiFillTool/></span>
-                <h5>Herramientas</h5>
+                <h5>Tools</h5>
                 <small>15</small>
               </article>
             
@@ -44,12 +44,12 @@ export const About = () => {
               </Card> */}
             </div>
               <p>
-                Licenciado en Mercadeo y Negocios Electrónicos, con conocimiento y enfoque en el desarrollo web y análisis de comercios electrónicos. Cuento con mas de 2 años de experiencia en el área web, desde desarrollo de sitios webs como e-commerces o landing pages, hasta el análisis de data que viene de estas plataformas, utilizando Google Analytics y Power BI. Me enfoco en el desarrollo front-end con herramientas como HTML, CSS, JavaScript, React, Tailwind, Bootstrap, ReactRouterDom y demás.
+              Bachelor of Marketing and Electronic Business, with knowledge and focus on web development data analysis. I have more than 2 years of experience in the web area, from the development of websites such as e-commerces or landing pages, to the analysis of data that comes from these platforms, using Google Analytics, Power BI, Google Tag Manager and Looker Studio. I focus on front-end development with tools like HTML, CSS, JavaScript, React, Tailwind, Bootstrap, ReactRouterDom, and more.
               </p>
               <p>
-                Soy Jean Adames, y mi pasión se basa en una entrega eficiente de mis servicios digitales. Mi prioridad es entregar tu proyecto con un alto estandar y una alta calidad en el tiempo acordado. Contáctame si quieres llevar a cabo tus proyectos de una manera eficiente y con un resultado creativo y funcional. Puedes revisar mi curriculum aquí abajo.
+              While my academic background is in marketing, my career trajectory has led me to a deep immersion in the field of technology. Through a combination of professional experience and self-directed learning, I have developed a comprehensive understanding of front-end development. My journey has been marked by a commitment to continuous growth, achieved through hands-on projects, relevant courses, and complex challenges. This unique blend of marketing knowledge and technical expertise provides me with a well-rounded perspective that bridges the gap between the technological and business realms.
               </p>
-              <a href={CV} download className='btn primary' >Descargar CV <HiDownload/> </a>
+              <a href={CV} download className='btn primary' >Download Resume <HiDownload/> </a>
           </div>
         </div>
       </section>

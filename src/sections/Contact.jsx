@@ -8,8 +8,8 @@ export const Contact = () => {
     <>
       <section id="contact">
         <div className="container contact-container">
-          <h2>Contáctame</h2>
-          <p>Envíame un mensaje por cualquiera de estas vías</p>
+          <h2>Contact me</h2>
+          <p>Send me a message by any of your preference</p>
           <div className="contacts">
             <a href="https://ig.me/m/jeancadames" target="_blank" className="contact-icon"><AiOutlineInstagram/></a>
             <a href='mailto:jeancadames22@gmail.com' className="contact-icon"><AiOutlineMail/></a>

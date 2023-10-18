@@ -1,7 +1,7 @@
 export const links = [
-    {id: 1, link: '#', title: 'Inicio'},
-    {id: 2, link: '#about', title: 'Sobre mi'},
-    {id: 3, link: '#services', title: 'Servicios'},
-    {id: 4, link: '#portfolio', title: 'Portafolio'},
-    {id: 5, link: '#contact', title: 'Contáctame'},
+    {id: 1, link: '#', title: 'Home'},
+    {id: 2, link: '#about', title: 'About me'},
+    {id: 3, link: '#services', title: 'Services'},
+    {id: 4, link: '#portfolio', title: 'Portfolio'},
+    {id: 5, link: '#contact', title: 'Contact me'},
 ]

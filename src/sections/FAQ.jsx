@@ -10,8 +10,8 @@ export const FAQ = () => {
   return (
     <section id="faq">
       <div className="container faq-container">
-        <h2>Preguntas Frecuentes</h2>
-        <p>Estas son algunas preguntas que normalmente recibo, haz click en la pregunta para mostrar la respuesta. ¡Si todavía tienes duda envíame un mensaje a través de la sección de contactos!</p>
+        <h2>Frequently Ask Questions</h2>
+        <p>These are some questions that I normally receive, click on the question to show the answer. If you still have questions, send me a message through the contact section!</p>
         <div className="questions-container">
             {
               faqs.map((faq, index) => {

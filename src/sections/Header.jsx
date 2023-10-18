@@ -12,10 +12,10 @@ export const Header = () => {
           <img src={headerImage} alt="header portait" />
         </div>
         <h3>Jean Adames</h3>
-        <p>Acabas de conocer a quien trabajará de la mano contigo para llevar a cabo tus proyectos webs. Dime lo que quieres y te entregaré un proyecto moderno, funcional, responsive para todos los dispositivos, con la mejor tecnología para mayor eficiencia </p>
+        <p>Passionate about new technologies and web design and development, my name is Jean Adams, a self-taught person in the technological area with knowledge in HTML, CSS, JavaScript, React and more</p>
         <div className="header-cta">
-          <a href="#contact" className='btn primary'>Hablemos</a>
-          <a href="#portfolio" className='btn light'>Mis trabajos</a>
+          <a href="#contact" className='btn primary'>Let's talk</a>
+          <a href="#portfolio" className='btn light'>My works</a>
         </div>
         <div className="header-socials">
           <a href='https://instagram.com/jeancadames' target='_blank' rel="noopener noreferrer"><AiOutlineInstagram/></a>
