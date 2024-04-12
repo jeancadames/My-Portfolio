@@ -11,7 +11,7 @@ export const Header = () => {
         <div className="header-profile">
           <img src={headerImage} alt="header portait" />
         </div>
-        <h3>Jean Adames</h3>
+        <h3>Jean Carlos Adames Peña</h3>
         <p>Acabas de conocer a quien trabajará de la mano contigo para llevar a cabo tus proyectos webs. Dime lo que quieres y te entregaré un proyecto moderno, funcional, responsive para todos los dispositivos, con la mejor tecnología para mayor eficiencia </p>
         <div className="header-cta">
           <a href="#contact" className='btn primary'>Hablemos</a>
