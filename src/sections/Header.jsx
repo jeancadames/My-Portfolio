@@ -12,7 +12,7 @@ export const Header = () => {
           <img src={headerImage} alt="header portait" />
         </div>
         <h3>Jean Carlos Adames Peña</h3>
-        <p>Acabas de conocer a quien trabajará de la mano contigo para llevar a cabo tus proyectos webs. Dime lo que quieres y te entregaré un proyecto moderno, funcional, responsive para todos los dispositivos, con la mejor tecnología para mayor eficiencia </p>
+        <p>Acabas de conocer a quien trabajará de la mano contigo para llevar a cabo tus proyectos webs. Dime lo que quieres y te entregaré un proyecto moderno, funcional, responsive para todos los dispositivos, con la mejor tecnología para mayor eficiencia y versatilidad</p>
         <div className="header-cta">
           <a href="#contact" className='btn primary'>Hablemos</a>
           <a href="#portfolio" className='btn light'>Mis trabajos</a>
